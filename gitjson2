@@ -1,0 +1,217 @@
+[
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ActualData.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ActualData.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ActualSales.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ActualSales.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_AnnualDirectWages.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_AnnualDirectWages.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_AnnualRevenue.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_AnnualRevenue.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_Budget.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_Budget.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_BudgetSales.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_BudgetSales.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_CEODashboardData.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_CEODashboardData.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_Cashreceipts.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_Cashreceipts.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ClientData.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ClientData.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ClientLiason.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ClientLiason.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ContractAgreement.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ContractAgreement.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_Customer.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_Customer.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_CustomerTransactionSettlement.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_CustomerTransactionSettlement.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_CustomerTransactions.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_CustomerTransactions.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_DataArea.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_DataArea.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_DateFinancial.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_DateFinancial.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_EmployeeLabor.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_EmployeeLabor.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_FNBIHcmEmployment.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_FNBIHcmEmployment.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_FinancialDimension.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_FinancialDimension.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_GeneralLedger.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_GeneralLedger.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_GracePeriod.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_GracePeriod.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_InvAging.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_InvAging.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_Opportunities.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_Opportunities.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_PMBI_Projtable.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_PMBI_Projtable.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ProjTransDate.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ProjTransDate.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_Project.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_Project.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ProjectBacklog.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ProjectBacklog.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ProjectBacklog_CM.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ProjectBacklog_CM.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ProjectInvoice.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ProjectInvoice.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ProjectManager.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ProjectManager.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ProjectTransactionType.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ProjectTransactionType.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ReserveInfo.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ReserveInfo.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_Resource.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_Resource.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_ResourceRole_SalesPrice.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_ResourceRole_SalesPrice.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_RevenueProject.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_RevenueProject.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_SalesCurrency.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_SalesCurrency.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_SalesManager.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_SalesManager.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_TimeMoveTrendReport.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_TimeMoveTrendReport.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_TimeSheet.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_TimeSheet.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_TimeSheetData.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_TimeSheetData.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_TimeSheetSummary.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_TimeSheetSummary.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_UnapprovedTimesheetLines.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_UnapprovedTimesheetLines.csv"
+    },
+    {
+        "p_rel_url": "smmehta2/MSA-/refs/heads/main/vw_WageUtilizationTarget.csv",
+        "p_sink_folder": "MSA_Data",
+        "p_sink_file": "vw_WageUtilizationTarget.csv"
+    }
+]
